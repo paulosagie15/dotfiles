@@ -66,5 +66,5 @@
 	helper = 
 	helper = !/usr/bin/gh auth git-credential
 [user]
-	email = paul.osagie15@gmail.com
-	name = paul osagie
+	email = paulosagie15
+	name = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh[D[D[D[C[C[B
